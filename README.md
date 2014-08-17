@@ -1,5 +1,7 @@
-js-repo-people-like
+js-repo-trending
 ===================
+### Everyday javascript trending repositories
+
 
 #### 1. [way.js](https://github.com/gwendall/way.js)
 Simple, lightweight, persistent two-way databinding
