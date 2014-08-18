@@ -12,3 +12,8 @@ Simple, lightweight, persistent two-way databinding
 A JS client-side library for creating graphic and interactive experiences, based on the core principles of Processing
 
 [Homepage](http://p5js.org/)
+
+#### 3. [scraperjs](https://github.com/ruipgil/scraperjs)
+A complete and versatile web scraper
+
+[examples](https://github.com/ruipgil/scraperjs#static-scraper)
