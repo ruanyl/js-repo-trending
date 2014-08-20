@@ -22,3 +22,9 @@ A complete and versatile web scraper
 A JavaScript Quality Guide
 
 [Website](http://bevacqua.io/)
+
+
+#### 5. [Caret.js](https://github.com/ichord/Caret.js)
+Get caret postion and offset from text field
+
+[Demo](http://ichord.github.io/Caret.js/)
