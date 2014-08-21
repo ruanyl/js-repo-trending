@@ -28,3 +28,8 @@ A JavaScript Quality Guide
 Get caret postion and offset from text field
 
 [Demo](http://ichord.github.io/Caret.js/)
+
+#### 6. [duojs](https://github.com/duojs/duo)
+A next-generation package manager for the front-end
+
+[Website](http://duojs.org/)
