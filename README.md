@@ -33,3 +33,9 @@ Get caret postion and offset from text field
 A next-generation package manager for the front-end
 
 [Website](http://duojs.org/)
+
+#### 7. [lowdb](https://github.com/typicode/lowdb)
+Flat JSON file database
+
+
+[examples](https://github.com/typicode/lowdb#usage)
