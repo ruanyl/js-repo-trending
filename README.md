@@ -39,3 +39,9 @@ Flat JSON file database
 
 
 [examples](https://github.com/typicode/lowdb#usage)
+
+
+### 8. [Bragi](https://github.com/enoex/Bragi-Node)
+Bragi is colorful, discrete, and sophisticated NodeJS logging framework
+
+[website](http://vasir.net/blog/programming/bragi-a-javascript-logging-library)
