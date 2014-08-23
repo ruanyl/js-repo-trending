@@ -41,7 +41,12 @@ Flat JSON file database
 [examples](https://github.com/typicode/lowdb#usage)
 
 
-### 8. [Bragi](https://github.com/enoex/Bragi-Node)
+#### 8. [Bragi](https://github.com/enoex/Bragi-Node)
 Bragi is colorful, discrete, and sophisticated NodeJS logging framework
 
 [website](http://vasir.net/blog/programming/bragi-a-javascript-logging-library)
+
+#### 9. [ment.io](https://github.com/jeff-collins/ment.io)
+Mentions and Macros for Angular
+
+[examples](http://jeff-collins.github.io/ment.io/#/) - [documentation](http://jeff-collins.github.io/ment.io/#/documentation)
