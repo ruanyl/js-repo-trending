@@ -58,6 +58,6 @@ Assorted CSS and UI experiments
 [website](http://lab.hakim.se)
 
 #### 11. [makedrive](https://github.com/mozilla/makedrive)
-Webmaker Filesystem
+A cloud-based Dropbox® equivalent for browser filesystems. Designed for use with Mozilla Webmaker tools and services.
 
 [wiki](https://wiki.mozilla.org/Webmaker/MakeDrive)
