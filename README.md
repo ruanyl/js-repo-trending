@@ -61,3 +61,8 @@ Assorted CSS and UI experiments
 A cloud-based Dropbox® equivalent for browser filesystems. Designed for use with Mozilla Webmaker tools and services.
 
 [wiki](https://wiki.mozilla.org/Webmaker/MakeDrive)
+
+#### 12. [meteor](https://github.com/meteor/meteor)
+Meteor, an ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework.
+
+[documentation](http://docs.meteor.com/) [website](http://www.meteor.com/)
