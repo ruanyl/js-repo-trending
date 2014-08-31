@@ -72,7 +72,7 @@ A D3-based reusable chart library
 
 [website](http://c3js.org/)
 
-#### 13. [chartist-js](https://github.com/gionkunz/chartist-js)
+#### 14. [chartist-js](https://github.com/gionkunz/chartist-js)
 Simple responsive charts
 
 [documentation](http://gionkunz.github.io/chartist-js/)
