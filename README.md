@@ -76,3 +76,9 @@ A D3-based reusable chart library
 Simple responsive charts
 
 [documentation](http://gionkunz.github.io/chartist-js/)
+
+
+#### 15. [shine.js](https://github.com/bigspaceship/shine.js)
+A library for pretty shadows.
+
+[demo](http://bigspaceship.github.io/shine.js/)
