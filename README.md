@@ -82,3 +82,8 @@ Simple responsive charts
 A library for pretty shadows.
 
 [demo](http://bigspaceship.github.io/shine.js/)
+
+#### 16. [timesheet.js](https://github.com/semu/timesheet.js)
+JavaScript library for simple HTML5 & CSS3 time sheets
+
+[demo](http://semu.github.io/timesheet.js)
