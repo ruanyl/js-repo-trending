@@ -87,3 +87,8 @@ A library for pretty shadows.
 JavaScript library for simple HTML5 & CSS3 time sheets
 
 [demo](http://semu.github.io/timesheet.js)
+
+#### 17. [sensei-grid](https://github.com/datazenit/sensei-grid)
+Sensei Grid is a simple data grid library in JavaScript
+
+[demo](http://datazenit.com/static/sensei-grid/examples/)
