@@ -92,3 +92,8 @@ JavaScript library for simple HTML5 & CSS3 time sheets
 Sensei Grid is a simple data grid library in JavaScript
 
 [demo](http://datazenit.com/static/sensei-grid/examples/)
+
+#### 18. [animsition](https://github.com/blivesta/animsition)
+a simple and easy jQuery plugin used to add page transition on css animations.
+
+[demo](http://git.blivesta.com/animsition/)
