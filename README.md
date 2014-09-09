@@ -97,3 +97,8 @@ Sensei Grid is a simple data grid library in JavaScript
 a simple and easy jQuery plugin used to add page transition on css animations.
 
 [demo](http://git.blivesta.com/animsition/)
+
+#### 19. [shout](https://github.com/erming/shout)
+A web IRC client
+
+[demo](http://shout-irc.com:9000/)
