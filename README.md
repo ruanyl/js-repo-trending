@@ -102,3 +102,9 @@ a simple and easy jQuery plugin used to add page transition on css animations.
 A web IRC client
 
 [demo](http://shout-irc.com:9000/)
+
+
+#### 20. [hello.js](https://github.com/MrSwitch/hello.js)
+A Javascript RESTFUL API library for connecting with OAuth2 services, such as Google+ API, Facebook Graph and Windows Live Connect
+
+[website](http://adodson.com/hello.js/)
