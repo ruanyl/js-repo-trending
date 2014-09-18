@@ -108,3 +108,13 @@ A web IRC client
 A Javascript RESTFUL API library for connecting with OAuth2 services, such as Google+ API, Facebook Graph and Windows Live Connect
 
 [website](http://adodson.com/hello.js/)
+
+#### 21. [KaTeX](https://github.com/Khan/KaTeX)
+Fast math typesetting for the web.
+
+[website](http://khan.github.io/KaTeX/)
+
+#### 22. [paths-js](https://github.com/andreaferretti/paths-js)
+Generate SVG paths for geometric shapes
+
+[demo](http://andreaferretti.github.io/paths-js-demo/)
