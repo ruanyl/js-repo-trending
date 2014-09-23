@@ -118,3 +118,8 @@ Fast math typesetting for the web.
 Generate SVG paths for geometric shapes
 
 [demo](http://andreaferretti.github.io/paths-js-demo/)
+
+#### 23. [Neural-Network](https://github.com/nxxcxx/Neural-Network)
+Abstract visualization of biological neural network
+
+[demo](http://nxxcxx.github.io/Neural-Network/)
