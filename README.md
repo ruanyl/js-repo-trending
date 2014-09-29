@@ -123,3 +123,8 @@ Generate SVG paths for geometric shapes
 Abstract visualization of biological neural network
 
 [demo](http://nxxcxx.github.io/Neural-Network/)
+
+#### 24. [midnight.js](https://github.com/Aerolab/midnight.js)
+A jQuery plugin to switch fixed headers on the fly
+
+[website](http://aerolab.github.io/midnight.js/)
