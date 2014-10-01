@@ -128,3 +128,9 @@ Abstract visualization of biological neural network
 A jQuery plugin to switch fixed headers on the fly
 
 [website](http://aerolab.github.io/midnight.js/)
+
+
+#### 25. [gifshot](https://github.com/yahoo/gifshot)
+JavaScript library that can create animated GIFs from media streams, videos, or images
+
+[website](http://yahoo.github.io/gifshot/)
