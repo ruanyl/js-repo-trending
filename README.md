@@ -134,3 +134,14 @@ A jQuery plugin to switch fixed headers on the fly
 JavaScript library that can create animated GIFs from media streams, videos, or images
 
 [website](http://yahoo.github.io/gifshot/)
+
+
+### 26. [sweetalert](https://github.com/t4t5/sweetalert)
+A beautiful replacement for JavaScript's "alert"
+
+[demo](http://tristanedwards.me/sweetalert)
+
+#### 27. [franc](https://github.com/wooorm/franc)
+Detect the language of text
+
+[`demo`](http://wooorm.github.io/franc/)  [`supported language`](https://github.com/wooorm/franc/blob/master/Supported-Languages.md)
