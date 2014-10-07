@@ -136,7 +136,7 @@ JavaScript library that can create animated GIFs from media streams, videos, or 
 [website](http://yahoo.github.io/gifshot/)
 
 
-### 26. [sweetalert](https://github.com/t4t5/sweetalert)
+#### 26. [sweetalert](https://github.com/t4t5/sweetalert)
 A beautiful replacement for JavaScript's "alert"
 
 [demo](http://tristanedwards.me/sweetalert)
@@ -145,3 +145,10 @@ A beautiful replacement for JavaScript's "alert"
 Detect the language of text
 
 [`demo`](http://wooorm.github.io/franc/)  [`supported language`](https://github.com/wooorm/franc/blob/master/Supported-Languages.md)
+
+#### 28. [nightmare](https://github.com/segmentio/nightmare)
+A high level wrapper for Phantomjs.
+
+[website](http://www.nightmarejs.org/)
+
+
