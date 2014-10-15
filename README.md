@@ -151,4 +151,13 @@ A high level wrapper for Phantomjs.
 
 [website](http://www.nightmarejs.org/)
 
+#### 29. [progressbar.js](https://github.com/kimmobrunfeldt/progressbar.js)
+Beautiful and responsive progress bars
 
+[website](https://kimmobrunfeldt.github.io/progressbar.js)
+
+
+#### 30. [swarm](https://github.com/gritzko/swarm)
+JavaScript replicated model (M of MVC) library
+
+[website](http://swarmjs.github.io/)
