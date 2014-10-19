@@ -161,3 +161,13 @@ Beautiful and responsive progress bars
 JavaScript replicated model (M of MVC) library
 
 [website](http://swarmjs.github.io/)
+
+#### 31. [lazysizes](https://github.com/aFarkas/lazysizes)
+High performance lazy loader for images (responsive and normal), iframes and scripts, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration.
+
+[demo](http://afarkas.github.io/lazysizes/#examples)
+
+#### 32. [scrollReveal.js](https://github.com/julianlloyd/scrollReveal.js)
+Easily reveal elements as they enter the viewport.
+
+[demo](http://scrollrevealjs.org/)
