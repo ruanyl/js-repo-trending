@@ -171,3 +171,11 @@ High performance lazy loader for images (responsive and normal), iframes and scr
 Easily reveal elements as they enter the viewport.
 
 [demo](http://scrollrevealjs.org/)
+
+#### 33. [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
+A JavaScript book series.
+
+#### 34. [remarkable](https://github.com/jonschlinkert/remarkable)
+Markdown parser, done right. 100% Commonmark support, extensions, syntax plugins, high speed - all in one.
+
+[demo](http://jonschlinkert.github.io/remarkable/demo/)
