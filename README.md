@@ -179,3 +179,23 @@ A JavaScript book series.
 Markdown parser, done right. 100% Commonmark support, extensions, syntax plugins, high speed - all in one.
 
 [demo](http://jonschlinkert.github.io/remarkable/demo/)
+
+#### 35. [particles.js](https://github.com/VincentGarreau/particles.js)
+A lightweight JavaScript library for creating particles.
+
+[demo](http://vincentgarreau.com/particles.js/)
+
+#### 36. [vivus](https://github.com/maxwellito/vivus)
+JavaScript library to make drawing animation on SVG
+
+[demo](http://maxwellito.github.io/vivus/)
+
+#### 37. [interact.js](https://github.com/taye/interact.js)
+JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE8+)
+
+[website](http://interactjs.io/)
+
+#### 38. [purplecoat.js](https://github.com/ellekasai/purplecoat.js)
+Purplecoat.js lets you create labeled overlays that can be triggered with a click. And you don't need to write a single line of Javascript.
+
+[website](http://ellekasai.github.io/purplecoat.js)
